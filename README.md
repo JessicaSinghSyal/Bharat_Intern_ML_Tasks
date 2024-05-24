@@ -1,4 +1,5 @@
-# Bharat_Intern_ML_Tasks
+# Random Forest, Logistic Regression & Support Vector Machine implementation for predictive modelling 
+
 Machine Learning Projects: Wine Quality Prediction and Iris Flower Classification
 
 
